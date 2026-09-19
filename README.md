@@ -4,7 +4,7 @@
 
 ![鲤云(LiYun)](https://i.eoht.net/airport/liyun_logo.webp)
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/liyun) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/liyun) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 鲤云(LiYun) 采用**海外中转节点与 VLESS 协议**，面向日常海外网站访问、流媒体观影和 AI 工具使用。月付从 **¥7、50GB/月**起，另有季付 64GB/月、年付 128GB/月特惠，以及总计 100GB 的不限时流量包。
 
